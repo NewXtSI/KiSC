@@ -1,0 +1,15 @@
+[submodule "KiSC-hoverboard-protocol"]
+	path = KiSC-hoverboard-protocol
+	url = https://github.com/NewXtSI/KiSC-hoverboard-protocol.git
+[submodule "KiSC-ESP-Now-Protocol"]
+	path = KiSC-ESP-Now-Protocol
+	url = https://github.com/NewXtSI/KiSC-ESP-Now-Protocol.git
+[submodule "KiSC-SoundAndLightController"]
+	path = KiSC-SoundAndLightController
+	url = https://github.com/NewXtSI/KiSC-SoundAndLightController
+[submodule "KiSC-Motorcontroller"]
+	path = KiSC-Motorcontroller
+	url = https://github.com/NewXtSI/KiSC-Motorcontroller
+[submodule "KiSC-PeriphalsController"]
+	path = KiSC-PeriphalsController
+	url = https://github.com/NewXtSI/KiSC-PeriphalsController
