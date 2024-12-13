@@ -14,3 +14,14 @@ It will be swappable so multiple car designs are possible. At the moment, there 
 - Lawn mover (Same controller structure, different peripherals)
 
 At the moment, it is really WiP, mostly build from scratch, so wait to get the results
+
+
+    // DPAD hoch: Gang hoch
+    // DPAD runter: Gang runter
+    // Linker Stick: Lenkung
+    // Rechter Stick: Gas/Bremse
+    // Y: Motor an/aus
+    // o: Cruise control
+
+    // L: Blinker links
+    // R: Blinker rechts
