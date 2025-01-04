@@ -15,13 +15,6 @@ It will be swappable so multiple car designs are possible. At the moment, there 
 
 At the moment, it is really WiP, mostly build from scratch, so wait to get the results
 
+I'm trying to add a HAMA Thunder V5 racing wheel to the car, to get all buttons, the shift pedals working to control
 
-    // DPAD hoch: Gang hoch
-    // DPAD runter: Gang runter
-    // Linker Stick: Lenkung
-    // Rechter Stick: Gas/Bremse
-    // Y: Motor an/aus
-    // o: Cruise control
-
-    // L: Blinker links
-    // R: Blinker rechts
+[HAMA Thunder V5 racing wheel](./doc/hama.md)
