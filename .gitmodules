@@ -19,3 +19,6 @@
 [submodule "hoverboard-firmware-hack-FOC"]
 	path = hoverboard-firmware-hack-FOC
 	url = https://github.com/NewXtSI/hoverboard-firmware-hack-FOC.git
+[submodule "KiSC-Steeringwheel"]
+	path = KiSC-Steeringwheel
+	url = https://github.com/NewXtSI/KiSC-Steeringwheel.git
